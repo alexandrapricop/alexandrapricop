@@ -1,4 +1,4 @@
-![Cover Pic](https://github.com/alexandrapricop/alexandrapricop/assets/49493413/231f4c89-19fc-40da-b48d-b07e964235b9)
+![Frame 1](https://github.com/alexandrapricop/alexandrapricop/assets/49493413/9bbdd66c-9ef7-44e7-96b3-71bd2a489773)
 
 <h3> Reach me: </h3>
 <a href="https://www.linkedin.com/in/alexandrag-pricop/" target="_blank">  
