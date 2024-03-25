@@ -1,5 +1,3 @@
-![Frame 1](https://github.com/alexandrapricop/alexandrapricop/assets/49493413/9bbdd66c-9ef7-44e7-96b3-71bd2a489773)
-
 <h3> Reach me: </h3>
 <a href="https://www.linkedin.com/in/alexandrag-pricop/" target="_blank">  
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
